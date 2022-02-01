@@ -10,7 +10,7 @@ create table department (
  name varchar(30) not null,
  primary key (id));
  );
-create table positon (
+create table position (
  id integer,
  name varchar(30) not null,
  primary key (id));
